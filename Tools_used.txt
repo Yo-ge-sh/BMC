@@ -1,0 +1,5 @@
+Oracle Database XE   : For local Database
+
+Oracle SQL Developer : To access / manipulate Database and create / test tasks assigned
+
+Visual studio code   : For Git and version control
